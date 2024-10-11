@@ -1,9 +1,11 @@
 # Cough-Strength-Measuring-device-using-ML-DL-and-Multisensory-Approach-
 
 **Overview**
+
 This project aims to develop a Cough Strength Measuring Device that leverages machine learning and a multisensory approach to objectively measure cough strength. It addresses the limitations of existing subjective methods, providing more accurate and consistent results, thus improving the diagnosis and treatment of patients with chronic cough.
 
 **Features**
+
 Objective Cough Strength Measurement: Combines data from pressure sensors and microphones to evaluate the force and sound of coughs.
 
 Multisensory Approach: Utilizes sensor data to ensure comprehensive results, reducing the reliance on traditional methods.
@@ -27,6 +29,7 @@ ESP-32: For data collection and communication with the software.
 SD Card Module: For local data storage.
 
 **Software**
+
 Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch, etc., for model training and testing.
 
 Flutter: For mobile app development.
