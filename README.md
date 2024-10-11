@@ -24,7 +24,7 @@ Pressure Sensor (GY-63): Measures the force of the cough.
 
 MEMS Microphone (INMP-441): Captures the sound of the cough to extract features Mfcc, Spectral Centoid , ZCR etc.
 
-ESP-32: For data collection and communication with the software.
+ADI-MAX7800X : For data collection and communication with the software.
 
 SD Card Module: For local data storage.
 
@@ -33,8 +33,6 @@ SD Card Module: For local data storage.
 Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch, etc., for model training and testing.
 
 Flutter: For mobile app development.
-
-Arduino IDE: For hardware testing and sensor calibration.
 
 **System Architecture**
 
