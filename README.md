@@ -14,7 +14,7 @@ Real-time Monitoring: Data is collected and stored for remote diagnosis, with cl
 
 User-Friendly Interface: The device comes with an intuitive interface that allows users to input personal data such as age, height, and weight, and receive accurate results.
 
-AI/ML Integration: The system uses machine learning algorithms to predict cough severity based on collected data.
+AI/ML Integration: The system uses machine learning and Deep Learning algorithms to predict cough severity based on collected data.
 
 **Components**
 
